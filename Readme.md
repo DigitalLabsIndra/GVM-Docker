@@ -3,8 +3,8 @@
 This setup is based on Greenbone Vulnerability Management and OpenVAS. We have made improvements to help stability and functionality.
 
 ## Documentation
-* [Instrucciones de Uso](https://mind.indra.es/pages/viewpage.action?pageId=489037570) 
-[Fuente Original](https://securecompliance.gitbook.io/projects/openvas-greenbone-deployment-full-guide)
+* [Instrucciones de Uso](https://mind.indra.es/pages/viewpage.action?pageId=489037570) (
+[Fuente Original](https://securecompliance.gitbook.io/projects/openvas-greenbone-deployment-full-guide))
 
 ## You can view our old documentation in our wiki, but we are converting everything to gitbook.
 * [View old Wiki](https://github.com/DigitalLabsIndra/GVM-Docker/wiki)
